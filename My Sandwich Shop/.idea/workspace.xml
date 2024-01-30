@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e1f2d1a0-6995-4624-beb1-0d3a8aaa4a3c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../My Sandwich Shop..l/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sandwichshop/my_sandwich_shop/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sandwichshop/my_sandwich_shop/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/bgImage.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/sandwichshop/my_sandwich_shop/main-window-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week 1/BorderPane Layout/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 1/BorderPane Layout/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 1/BorderPane Layout/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 1/BorderPane Layout/src/main/resources/fsd/week1/borderpane_layout/main-window-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 1/BorderPane Layout/src/main/resources/fsd/week1/borderpane_layout/main-window-view.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 1/Lab Exercise/Exercise 3/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../My Sandwich Shop..l/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 1/Lab Exercise/Exercise 3/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../My Sandwich Shop..l/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 1/Lab Exercise/Exercise 3/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../My Sandwich Shop..l/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 1/Lab Exercise/Exercise 3/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../My Sandwich Shop..l/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 1/Lab Exercise/Exercise 3/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../My Sandwich Shop..l/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 1/Lab Exercise/Exercise 3/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 1/Lab Exercise/Exercise 3/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../My Sandwich Shop..l/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 1/Lab Exercise/Exercise 3/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../My Sandwich Shop..l/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 1/Lab Exercise/Exercise 3/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/../My Sandwich Shop..l/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 1/Lab Exercise/Exercise 3/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/../My Sandwich Shop..l/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 1/Lab Exercise/Exercise 3/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../My Sandwich Shop..l/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 1/Lab Exercise/Exercise 3/src/main/java/com/exercise3/exercise_3/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/../My Sandwich Shop..l/src/main/java/com/exercise3/exercise_3/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 1/Lab Exercise/Exercise 3/src/main/java/com/exercise3/exercise_3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../My Sandwich Shop..l/src/main/java/com/exercise3/exercise_3/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 1/Lab Exercise/Exercise 3/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/../My Sandwich Shop..l/src/main/java/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week 1/Lab Exercise/Exercise 3/src/main/resources/com/exercise3/exercise_3/main-window-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/../My Sandwich Shop..l/src/main/resources/com/exercise3/exercise_3/main-window-view.fxml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2bg4Xv7QU760v5ZEVgUIT9tMYXI" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ayush\OneDrive\Desktop\University\sem2\FSD\My Sandwich Shop\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="My Sandwich Shop" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="My Sandwich Shop" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e1f2d1a0-6995-4624-beb1-0d3a8aaa4a3c" name="Changes" comment="" />
+      <created>1706623435224</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706623435224</updated>
+      <workItem from="1706623436283" duration="9921000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
