@@ -5,39 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e1f2d1a0-6995-4624-beb1-0d3a8aaa4a3c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../My Sandwich Shop..l/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sandwichshop/my_sandwich_shop/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sandwichshop/my_sandwich_shop/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/bgImage.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/sandwichshop/my_sandwich_shop/main-window-view.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Week 1/BorderPane Layout/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Week 1/BorderPane Layout/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 1/BorderPane Layout/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Week 1/BorderPane Layout/src/main/resources/fsd/week1/borderpane_layout/main-window-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week 1/BorderPane Layout/src/main/resources/fsd/week1/borderpane_layout/main-window-view.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Week 1/Lab Exercise/Exercise 3/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../My Sandwich Shop..l/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Week 1/Lab Exercise/Exercise 3/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../My Sandwich Shop..l/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Week 1/Lab Exercise/Exercise 3/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../My Sandwich Shop..l/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Week 1/Lab Exercise/Exercise 3/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../My Sandwich Shop..l/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Week 1/Lab Exercise/Exercise 3/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../My Sandwich Shop..l/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Week 1/Lab Exercise/Exercise 3/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Week 1/Lab Exercise/Exercise 3/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../My Sandwich Shop..l/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Week 1/Lab Exercise/Exercise 3/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../My Sandwich Shop..l/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Week 1/Lab Exercise/Exercise 3/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/../My Sandwich Shop..l/mvnw" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Week 1/Lab Exercise/Exercise 3/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/../My Sandwich Shop..l/mvnw.cmd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Week 1/Lab Exercise/Exercise 3/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../My Sandwich Shop..l/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Week 1/Lab Exercise/Exercise 3/src/main/java/com/exercise3/exercise_3/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/../My Sandwich Shop..l/src/main/java/com/exercise3/exercise_3/Controller.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Week 1/Lab Exercise/Exercise 3/src/main/java/com/exercise3/exercise_3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../My Sandwich Shop..l/src/main/java/com/exercise3/exercise_3/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Week 1/Lab Exercise/Exercise 3/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/../My Sandwich Shop..l/src/main/java/module-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Week 1/Lab Exercise/Exercise 3/src/main/resources/com/exercise3/exercise_3/main-window-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/../My Sandwich Shop..l/src/main/resources/com/exercise3/exercise_3/main-window-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sandwichshop/my_sandwich_shop/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sandwichshop/my_sandwich_shop/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,6 +44,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ayush\OneDrive\Documents\GitHub\Sandwich-Shop\My Sandwich Shop\src\main\resources" />
       <recent name="C:\Users\ayush\OneDrive\Desktop\University\sem2\FSD\My Sandwich Shop\src\main\resources" />
     </key>
   </component>
@@ -101,6 +72,7 @@
       <option name="presentableId" value="Default" />
       <updated>1706623435224</updated>
       <workItem from="1706623436283" duration="9921000" />
+      <workItem from="1706646830155" duration="1181000" />
     </task>
     <servers />
   </component>
